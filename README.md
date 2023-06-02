@@ -10,8 +10,7 @@ This is a simple blockchain network that allows users to add blocks with data, c
 To get started with this project, you will need to do the following:
 
 1. Clone the repository to your local machine.
-2. Install the necessary dependencies by running `npm install`.
-3. Run the application by running `node index.js`.
+
 
 ## Usage
 
