@@ -14,7 +14,7 @@ To get started with this project, you will need to do the following:
 
 ## Usage
 
-The blockchain network has the following endpoints:
+The blockchain network has the following functionality:
 
 ### Add Block with Data
 
@@ -23,6 +23,15 @@ The blockchain network has the following endpoints:
 ### Change Data of Block
 
 ### Mine Block
+
+### Add Block with Data
+
+
+## Tools
+
+- javaScript
+- Html
+- Css
 
 ## Contributing
 
